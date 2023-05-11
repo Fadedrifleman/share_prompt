@@ -1,5 +1,7 @@
 # Share Prompt
 
+website live at : https://share-prompt-ten.vercel.app/
+
 ## Learnings
 
 - Next.js 13 App Folder Structure
